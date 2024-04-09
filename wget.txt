@@ -56,6 +56,7 @@ https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10259169/phantom1
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11229196/Delta4Transparent.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11229196/Delta4Transparent.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11229248/Captura_alinear_menu.bmp
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11245374/TrazoLaser.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11229251/Optimize_phantom.PNG
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11229502/IMG_20240326_181658.jpg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11229515/isocal.png
@@ -127,8 +128,7 @@ https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11240428/bracket-
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10259169/phantom1-removebg-preview-removebg-preview.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248264/leon.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11238639/FieldSizeCalibr.png
-https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11239509/Desvaicion6FFF.PNG
-https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11239510/Desviacion6X.PNG
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11250150/GraficoCamposPequenos.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10241138/IMG_20230203_091155.jpg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10241430/Captura_de_pantalla_de_2023-02-21_21-07-47.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10241127/IMG_20230203_091109.jpg
